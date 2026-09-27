@@ -139,6 +139,12 @@ The project demonstrated the integration of astronomical concepts with electroni
 
 However, the final tracking precision could not be fully verified during the project.
 
+### Demonstration
+
+A short demonstration of the Star Tracker prototype in operation:
+
+[ Watch the Star Tracker in action](https://youtube.com/shorts/J1A2CNMPfsA)
+
 ## Challenges and Limitations
 
 Several technical challenges were encountered during development.
